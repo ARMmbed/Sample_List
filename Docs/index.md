@@ -2,13 +2,13 @@
 
 This page links to example applications for all of our new products.
 
-# For mbed OS
+## For mbed OS
 
-## Blinky
+### Blinky
 
 Blinky is the simplest application we have, and is available in the [quick start guide](FirstProjectmbedOS.md), alongside an [extended form](Extended_LED.md).
 
-## Networking
+### Networking
 
 * [UDP and TCP Hello World](https://github.com/ARMmbed/mbed-example-network).
  
@@ -16,7 +16,7 @@ Blinky is the simplest application we have, and is available in the [quick start
 
 * [BLE examples](https://github.com/ARMmbed/ble-examples).
 
-## Peripheral 
+### Peripheral 
 
 * [Async I2C](https://github.com/ARMmbed/example-asynch-i2c).
 
@@ -24,11 +24,11 @@ Blinky is the simplest application we have, and is available in the [quick start
 
 * [Async SPI](https://github.com/ARMmbed/example-asynch-spi).
 
-## Interrupts
+### Interrupts
 
 * [GPIO InterruptIn](https://github.com/ARMmbed/example-mbedos-interruptin). Coming soon.
 
-# For mbed Client, mbed Device Server and mbed Device Connector Service
+## For mbed Client, mbed Device Server and mbed Device Connector Service
 
 * [Mesh networking with 6LoWPAN or Thread](https://github.com/ARMmbed/mbed-client-example-6lowpan).
 
