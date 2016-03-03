@@ -1,0 +1,6 @@
+site_name: Examples List
+
+docs_dir: Docs
+
+pages:
+- ['index.md','Examples list']
