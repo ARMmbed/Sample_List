@@ -37,3 +37,5 @@ Blinky is the simplest application we have, and is available in the [quick start
 * [mbed Client on Linux](https://github.com/ARMmbed/mbed-client-linux-example).
 
 * [mbed web application (for mbed Device Server and med Device Connector Service)](https://github.com/ARMmbed/mbed-webapp-example).
+
+* [mbed Client for Ethernet (C-style)](https://github.com/janjongboom/mbed-client-ethernet-c-style/blob/master/mbed-client-ethernet-c-style/README.md).
