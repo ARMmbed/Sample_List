@@ -6,7 +6,7 @@ This page links to example applications for all of our new products.
 
 ### Blinky
 
-Blinky is the simplest application we have, and is available in the [quick start guide](FirstProjectmbedOS.md), alongside an [extended form](Extended_LED.md).
+Blinky is the simplest application we have, and is available in the [quick start guide](https://docs.mbed.com/docs/getting-started-mbed-os/en/latest/FirstProjectmbedOS/), alongside an [extended form](https://docs.mbed.com/docs/getting-started-mbed-os/en/latest/Extended_LED/).
 
 ### Networking
 
